@@ -1,0 +1,3 @@
+/.vscode
+/Chapter2/datasets
+/homl_chp2env
